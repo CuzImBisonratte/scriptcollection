@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@800&display=swap');
+html {
+    font-family: "Dosis";
+    height: 100%;
+    width: 100%;
+    margin: auto;
+}
+
+body {
+    height: 100%;
+    width: 50%;
+    margin: auto;
+    background-color: #c90c54;
+}
+
+#main {
+    width: 614px;
+    height: 100%;
+    margin: auto;
+    background-color: #ffffff;
+}
+
+#catimg {
+    width: 614px;
+    height: 614px;
+    position: absolute;
+    bottom: 75px;
+}
+
+footer {
+    height: 125px;
+    width: 614px;
+    position: absolute;
+    bottom: 0px;
+    background-color: #aaaaaa;
+    display: grid;
+    grid-template-areas: "button1 button2 button3";
+}
+
+footer div img {
+    margin-left: 48px;
+}
+
+.controls {
+    position: absolute;
+    margin-top: 12.5px;
+    background-color: #ffffff60;
+    height: 100px;
+    width: 100px;
+    border-radius: 10%;
+    position: 0px 50px;
+}
+
+#like_button_div {
+    grid-area: button1;
+}
+
+#mid_button_div {
+    grid-area: button2;
+}
+
+#mid_button {
+    rotate: 90deg;
+}
+
+#dislike_button_div {
+    grid-area: button3;
+}
+
+#dislike_button {
+    rotate: 180deg;
+}
