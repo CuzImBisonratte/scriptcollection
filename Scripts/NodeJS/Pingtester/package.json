@@ -1,0 +1,14 @@
+{
+  "name": "pingtest",
+  "version": "1.0.0",
+  "description": "Ein simpler Pingtest, der das Ergebnis sofort ausgibt",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "net-ping": "^1.2.3"
+  }
+}
