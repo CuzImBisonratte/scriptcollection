@@ -1,4 +1,5 @@
 # scriptcollection
+scriptcollection is a collection of scripts that aren't big enough to warrant their own repository.
 
 # mp3tomp4
 - mp3tomp4 is a script that converts mp3 files to mp4 files.
