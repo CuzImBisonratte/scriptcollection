@@ -1,0 +1,19 @@
+{
+  "name": "mp3tomp4",
+  "version": "1.0.0",
+  "description": "A simple program that will convert mp3`s with images to an Video",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuzimbisonratte/mp3tomp4.git"
+  },
+  "author": "CuzImBisonratte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cuzimbisonratte/mp3tomp4/issues"
+  },
+  "homepage": "https://github.com/cuzimbisonratte/mp3tomp4#readme"
+}
