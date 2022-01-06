@@ -6,7 +6,6 @@ var fs = require('fs');
 
 // Get the exec module
 const { exec } = require('child_process');
-const { timeStamp } = require('console');
 
 // Create readline interface
 var rl = readline.createInterface({
